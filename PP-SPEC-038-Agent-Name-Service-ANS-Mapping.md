@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | October 1, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | Agent Name Service (ANS) |
 | Series | Proof Protocol Framework Mapping Specifications |
 
@@ -107,7 +107,7 @@ Agent Name Service (ANS) is external work. Its names, specifications, implementa
 
 The ANS paper associated with this mapping has been reported as distributed under **CC BY 4.0**; code or other implementation artifacts may carry separate licenses and SHOULD be checked at their authoritative source before reuse.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY-ND 4.0**. Upstream material is referenced for interoperability and is not relicensed by this specification.
+This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. Upstream material is referenced for interoperability and is not relicensed by this specification.
 
 ## 11. Versioning
 
@@ -115,4 +115,4 @@ This mapping is versioned independently of ANS. Material upstream changes SHOULD
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
