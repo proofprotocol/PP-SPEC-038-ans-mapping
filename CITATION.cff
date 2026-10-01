@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-038: Proof of Efficacy Mapping to Agent Name Service (ANS)"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-01"
+license: "CC-BY-ND-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-038-ans-mapping"
+abstract: "A Proof Protocol mapping specification connecting Agent Name Service identity, naming, discovery, and resolution context to independently generated evidence, efficacy measurements, and proof artifacts."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - Agent Name Service
+  - ANS
+  - agentic AI
+  - identity
+  - evidence
+  - efficacy
+  - proof
