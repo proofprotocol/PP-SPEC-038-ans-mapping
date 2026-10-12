@@ -107,7 +107,7 @@ Agent Name Service (ANS) is external work. Its names, specifications, implementa
 
 The ANS paper associated with this mapping has been reported as distributed under **CC BY 4.0**; code or other implementation artifacts may carry separate licenses and SHOULD be checked at their authoritative source before reuse.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
